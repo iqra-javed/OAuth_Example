@@ -1,3 +1,5 @@
+OAuth example project created with Stephen Grider's Modern React with Redux course
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
